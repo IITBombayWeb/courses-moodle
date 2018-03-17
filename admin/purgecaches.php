@@ -23,6 +23,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
+define('CLI_SCRIPT',true);
 require_once('../config.php');
 require_once($CFG->libdir.'/adminlib.php');
 
